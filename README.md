@@ -30,7 +30,7 @@ Python 2.7.18
 ## Setup
 
 - `yarn install`
-- `yarn bootstrap --core`
+- `yarn bootstrap --core` (depeneding on your version of `node` you may need to do `NODE_OPTIONS=--openssl-legacy-provider yarn bootstrap --core`
 
 ## Run
 
